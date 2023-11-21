@@ -1,0 +1,6 @@
+.counter-container {
+    display: inline-flex;
+    align-items: center;
+    gap: .5em;
+    margin: .5em;
+}
